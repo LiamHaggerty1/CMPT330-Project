@@ -16,7 +16,7 @@ jobs:
       - checkout
       - run: ruby --version
       - run: bundle update
-      - run: jekyll serve
+      # - run: jekyll serve
       - persist_to_workspace:
           root: CMPT330-Project
           paths:
