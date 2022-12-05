@@ -16,11 +16,28 @@ jobs:
       - checkout
       - run: ruby --version
       - run: bundle update
-      # - run: jekyll serve
+      - run: bundle exec jekyll serve
       - persist_to_workspace:
-          root: workspace
+          root: /CMPT330-Project/_site
           paths:
-            - _site
+            - 2020
+            - 2022
+            - assets
+            - bin
+            - img
+            - posts
+            - about.html
+            - contact.html
+            - feed.xml
+            - index.html
+            - jekyll-theme-clean-blog.gemspec
+            - LICENSE
+            - package-lock.json
+            - package.json
+            - README.md
+            - robots.txt
+            - screenshot.png
+            - sitemap.xml
 
 
   deploy:
