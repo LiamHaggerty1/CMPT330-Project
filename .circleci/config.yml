@@ -15,8 +15,13 @@ jobs:
     steps:
       - checkout
       - run: ruby --version
-      - bundle install
-      - bundle exec jekyll serve
+      - run: bundle update
+      - run: bundle exec jekyll serve
+      - persist_to_workspace:
+          root: _site
+          paths:
+            - /Users/liamhaggerty/Desktop/CMPT330-Project/_site
+
 
   deploy:
     machine:
