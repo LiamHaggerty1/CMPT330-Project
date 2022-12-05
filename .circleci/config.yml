@@ -18,7 +18,7 @@ jobs:
       - run: bundle update
       # - run: jekyll serve
       - persist_to_workspace:
-          root: root
+          root: /Users/liamhaggerty/Desktop/CMPT330-Project
           paths:
             - _site
 
