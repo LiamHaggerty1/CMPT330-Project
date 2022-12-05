@@ -18,7 +18,7 @@ jobs:
       - run: bundle update
       # - run: jekyll serve
       - persist_to_workspace:
-          root: /tmp/dir
+          root: workspace
           paths:
             - _site
 
