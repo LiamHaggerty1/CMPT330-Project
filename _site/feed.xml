@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-05T16:31:45-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Liam Haggerty</title><subtitle>A Jekyll Website for My System Design Project</subtitle><author><name>Liam Haggerty</name></author><entry><title type="html">Lesson 2</title><link href="http://localhost:4000/2022/11/24/heartbeats.html" rel="alternate" type="text/html" title="Lesson 2" /><published>2022-11-24T22:45:13-05:00</published><updated>2022-11-24T22:45:13-05:00</updated><id>http://localhost:4000/2022/11/24/heartbeats</id><content type="html" xml:base="http://localhost:4000/2022/11/24/heartbeats.html"><![CDATA[<p>This is a post about Lesson 2. Here, we are going into the basics of bootstrap. I have used bootstrap before, however this was a further in depth representation of what it is. What it does is give you an example website.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-05T18:48:45-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Liam Haggerty</title><subtitle>A Jekyll Website for My System Design Project</subtitle><author><name>Liam Haggerty</name></author><entry><title type="html">Circle CI</title><link href="http://localhost:4000/2022/12/04/CircleCi.html" rel="alternate" type="text/html" title="Circle CI" /><published>2022-12-04T09:45:13-05:00</published><updated>2022-12-04T09:45:13-05:00</updated><id>http://localhost:4000/2022/12/04/CircleCi</id><content type="html" xml:base="http://localhost:4000/2022/12/04/CircleCi.html"><![CDATA[<p>For the next portion of the website, we used circle ci. Circle Ci is a program that tracks each commit to make sure that the project can build and deploy.</p>
+
+<p>Through this application you can also filter whose builds you are seeing and what they have done. This is good for businesses who have a lot of engineers modifying files. It is also good for administrators to see what progress an employee is doing.</p>
+
+<p>In my opinion, the best way to use circle ci is for debugging. It is much easier to see what errors are happening and what can be done to fix it compared to a regular IDE. Hopefully in the future I could use an application like this to check my works.</p>
+
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.g2crowd.com%2Fuploads%2Fattachment%2Ffile%2F57967%2Fexpirable-direct-uploads_2Ff1a4c77e-0a1f-49bf-a6d7-e0260b246f2a_2Fscreencapture-circleci-build-timing.png&f=1&nofb=1&ipt=ace4d54afa15eb2813948fba65172b02b0d1252a9f1c6ee71e063b752d24f5a2&ipo=images">
+    Circle CI's user interface is especially good for analyzing why your build failed, and seeing important statstics during the process for your project. </p>
+
+<p>This application used with github and VS Code makes creating a project that less stressful.</p>    
+
+<!-- <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+
+<h2 class="section-heading">The Final Frontier</h2>
+
+<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+
+<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+
+<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+
+<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+
+<h2 class="section-heading">Reaching for the Stars</h2>
+
+<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+
+<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
+<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+
+<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
+
+<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
+
+<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p> -->]]></content><author><name>Liam Haggerty</name></author><summary type="html"><![CDATA[For the next portion of the website, we used circle ci. Circle Ci is a program that tracks each commit to make sure that the project can build and deploy.]]></summary></entry><entry><title type="html">Lesson 2</title><link href="http://localhost:4000/2022/11/24/heartbeats.html" rel="alternate" type="text/html" title="Lesson 2" /><published>2022-11-24T22:45:13-05:00</published><updated>2022-11-24T22:45:13-05:00</updated><id>http://localhost:4000/2022/11/24/heartbeats</id><content type="html" xml:base="http://localhost:4000/2022/11/24/heartbeats.html"><![CDATA[<p>This is a post about Lesson 2. Here, we are going into the basics of bootstrap. I have used bootstrap before, however this was a further in depth representation of what it is. What it does is give you an example website.</p>
 
 <p>Then using the source code, you can customize it and change the website to how you would like it. I used it to show some stuff about me and I added some pictures. You can see the wesbite on github pages <a href="https://liamhaggerty1.github.io/lab-2-bootstrap/">here</p>
 
