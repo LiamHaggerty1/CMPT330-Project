@@ -18,9 +18,9 @@ jobs:
       - run: bundle update
       - run: bundle exec jekyll serve
       - persist_to_workspace:
-          root: _site
+          root: CMPT330-Project
           paths:
-            - /_site
+            - _site
 
 
   deploy:
