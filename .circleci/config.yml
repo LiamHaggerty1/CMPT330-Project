@@ -37,8 +37,3 @@ workflows:
       jobs:
           # - build
           - deploy
-- persist_to_workspace:
-    root: /tmp/dir
-    paths:
-      - foo/bar
-      - baz
